@@ -1,6 +1,6 @@
 # **UFOs Sightings**
 
-## Overview of Project ##
+## Overview ##
 
 The purpose of this project was to provide an analysis of UFO sightings across the world by allowing users to filter through UFO sighting data by date, city, state, country and shape. 
 
@@ -22,14 +22,16 @@ Even after you have entered one search criteria, you can add another and select 
 
 ![el cajon   triangle example](https://user-images.githubusercontent.com/75765653/109399353-f5c51d00-7907-11eb-9e12-9a5cf3bbe5c9.png)
 
-Once you see the results for the search you have entered and would like to begin a new search, simply click the UFO Sightings, or reload the page, to reset you search criteria and do it again!
+Once you see the results for the search you have entered and would like to begin a new search, simply click the UFO Sightings, or reload the page, to reset your search criteria and do it again!
 
 
 ## Summary ## 
-In a summary statement, describe one drawback of this new design and two recommendations for further development.
-One drawback of this design is that the search criteria must match exactly to the data. For example, when the search criteria "ca" is entered there are many results, but if "CA" is entered, then no results populate. 
+One drawback of this design is that the search criteria must match exactly to the data. For example, when the search criteria "ca" is entered there are many results, but if "CA" is entered, then no results populate. It also may be a good idea to add examples or a key of shape examples, as this criteria is not as clear as a date, city or state. 
 
-Two recommendations for further delevelopment would be:
-1) All of the sightings in our data are from the US, so I would remove that search criteria and replace it with duration. People interested in UFO sightings would probably like to see if the durations in certain areas are similar within that area, and how they vary from different locations. 
-2) Another development I would look into, is making the text entered different than the example text. This way you still have the example text if you would like to enter another search criteria, but you still identify the criteria you have already entered. Currently all the text looks the same when entered, so it can be difficult to know what the results are filtered on. 
+Two recommendations I would make for further development would be:
+1) All of the sightings in our data are from the US, so I would remove that search criteria and replace it with duration. People interested in UFO sightings would probably like to see if the durations in certain areas are similar to one another, and how the duration in one location or on a specific date vary from other locations and dates. 
+2) Another development I would look into, is making the text entered different than the example text. This way you still have the example text if you would like to enter another search criteria, but you still identify the criteria you have already entered. Currently all the text looks the same when entered, so it can be difficult to know what the results are filtered on.
 
+*In this example, I have entered fresno in the city section, and light in the shape section, but the text does not look different from state or country, which is not being used to filter.* 
+
+![format example](https://user-images.githubusercontent.com/75765653/109399698-0080b180-790a-11eb-8d42-0699f195e254.png)
